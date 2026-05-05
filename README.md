@@ -54,9 +54,9 @@ The following visualizations were created:
 - Price strongly influences total sales  
 
  Project Structure
-  sales_data.csv
-  analysis.ipynb
-  README.md
+ - sales_data.csv
+ - analysis.ipynb
+ - README.md
 
 Conclusion
 This project highlights the importance of data cleaning and visualization in data analysis. By preprocessing raw data and applying visualization techniques, meaningful insights were extracted effectively.
